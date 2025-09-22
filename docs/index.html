@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+    />
+  </head>
+  <style>
+    body {
+      font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      letter-spacing: 0.6px;
+    }
+
+    /* Nếu muốn cả sidebar và content dùng chung font */
+    .sidebar,
+    .content {
+      font-family: inherit;
+    }
+  </style>
+  <body>
+    <div id="app"></div>
+    <script>
+      window.$docsify = {
+        loadSidebar: true,
+        subMaxLevel: 3,
+      };
+    </script>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  </body>
+</html>
