@@ -73,6 +73,3 @@ Không nên lạm dụng context, nếu các component đơn giản, không nhi�
 ?> Nếu component sâu thì nên dùng context còn nông thì dùng props là được
 
 1 số case nên dùng context: https://react.dev/learn/passing-data-deeply-with-context#use-cases-for-context
-
-- Đổi darkmode cho web, để 1 context bọc toàn bộ app và tùy chỉnh các thành phần con
-- curent account:
