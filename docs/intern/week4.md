@@ -9,6 +9,12 @@
 - Tiếp tục làm example table:
   - Chức năng filter: làm thanh search ngay dưới các header
 
+> - Tìm hiểu cách deploy code lên server nội bộ
+> - Thử với việc dùng máy tính cá nhân làm sever, điện thoại connect cùng wifi với máy tính xem có load đc không
+> - Dùng docker, tunel
+
+> - Đọc hiểu code phần quản lý kho, xuất/nhập thuốc của quản lý sức khỏe
+
 ## Thứ 4
 
 - Luyện tập tanstack table với các example
