@@ -1,3 +1,18 @@
+## Chủ nhật
+
+- Làm task Thực lực kho
+
+## Thứ 6
+
+- Task mới:
+
+  - refactor code Thống kê truy cập - tách hàm xuất file csv ra thành 1 module nhận header, data
+  - Tạo mục mới "Thực lực kho" - là tồn kho nhưng mà không có phần lô, mà gộp lại hiển thị tổng tiền, bao nhiêu hết hạn, bao nhiêu còn hạn
+
+- tanstack table: để các chức năng sort, filter hoạt động được thì column đó phải có accessFn, mặc định khi accessKey thì sẽ tạo luôn id và accessFn, nếu mình tự tạo 1 cột thêm như fullName = firstName + lastName thì phải ghi accessFn thì mới sort, filter đc
+
+- Xem example tanstack-route
+
 ## Thứ 5
 
 - Task vẽ chart:
