@@ -1,10 +1,23 @@
 # Tuần 7
 
-# Thứ 5
+## Thứ 7
+
+- Fix lỗi hư css khi thêm scrollbar vào Tablist:
+  - Nhưng lỗi nhiều hơn, nên reset lại
+
+## Thứ 6
+
+- Thêm size, scroll cho TabList:
+  - Đang lỗi css khi thêm Scroll vào
+  - Sửa lại UI scroll ngang cho khám tuyển sinh như khám thường xuyên
+
+## Thứ 5
 
 - Làm tiếp task Khám thường xuyên
   - Sửa lại logic lọc items cho cây: tìm đơn vị con theo parentId --> chuyển sang tìm theo code
-  -
+  - Thêm logic tự động scroll khi reload page
+  - Fix lỗi khi nhập url tào lào sẽ bị lỗi, cho nó reset về default
+  - Thêm disable node root trong cây đơn vị
 
 ## Thứ 4
 
