@@ -9,6 +9,7 @@
   - [Tuần 7 - (20/10 - 26/10)](intern/week7.md)
   - [Tuần 8 - (27/10 - 02/11)](intern/week8.md)
   - [Tuần 9 - (03/11 - 09/11)](intern/week9.md)
+  - [Tuần 10 - (10/11 - 16/11)](intern/week10.md)
 
 - Cẩm nang React
   - [Responding to event (Chương 2)](React/responding_to_event.md)

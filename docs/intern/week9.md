@@ -1,5 +1,14 @@
 # Tuần 9
 
+# Chủ nhật
+
+- Task thống kê tông hợp:
+  - Làm UI
+
+# Thứ 5, 6
+
+- Thứ 2 tuần sau mới ghi nên không nhớ làm gì
+
 # Thứ 4
 
 - Task chức năng chi tiết truy cập
