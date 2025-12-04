@@ -1,4 +1,4 @@
-# Tuần 6
+# Tuần 6 (13/10 - 19/10)
 
 - Thứ 3 tuần sau rồi mới ghi, quên mất làm gì rồi
 
