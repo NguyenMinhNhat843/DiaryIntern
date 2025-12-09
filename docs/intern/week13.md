@@ -1,6 +1,12 @@
 # Tuần 13 (1/12 - 7/12)
 
+## Thứ 6
+
+- Làm báo cáo thực tập
+
 ## Thứ 5
+
+- Làm báo cáo thực tập
 
 ## Thứ 4
 
